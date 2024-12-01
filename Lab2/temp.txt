@@ -1,0 +1,15 @@
+// for (int mainPtr = 0; mainPtr < 4; mainPtr++)
+        // {
+        //     for (int start = mainPtr;start < 4; start++)
+        //     {
+        //         int jIndex = 0;
+        //         for (int end = 0;end < 5; end++)
+        //         {
+        //             if (friendsArray[mainPtr][jIndex] && friendsArray[start+1][jIndex])
+        //             {
+        //                 cout << mainPtr<< " and " << start+1 << " are common friends with " << jIndex << endl;
+        //             }
+        //             jIndex++;
+        //         }
+        //     }
+        // }
